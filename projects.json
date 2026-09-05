@@ -6,21 +6,11 @@
   },
   "projects": [
     {
-      "id": "legislation",
-      "name": "Legislation",
-      "url": "https://strata.noradz.io/legislation/",
-      "summary": "The ACT unit titles and community title Acts, in full.",
-      "blurb": "The full text of the four instruments that govern unit titles, community title and owners corporation management in the ACT, one plain page per document with the real heading hierarchy intact. Unofficial reproductions kept for reference and for feeding to an assistant — confirm current provisions at the ACT legislation register.",
-      "status": "live",
-      "nav": true,
-      "hub": true
-    },
-    {
       "id": "lodger",
       "name": "lodger",
       "url": "https://lodger.noradz.io/",
       "summary": "Merge two PDFs and stamp every page.",
-      "blurb": "Merge two PDFs and stamp every page of the result — your seal or logo in the bottom-right corner, and a page number in a circle in the footer. The shape of an exhibit or annexure stamp, for the bundles that get filed. Numbering runs unbroken across both documents and can start at any number.",
+      "blurb": "Merge two PDFs and stamp every page of the result — your seal or logo in the bottom-right corner, and a page number in a circle in the footer. Numbering runs unbroken across both documents and can start at any number.",
       "status": "live",
       "nav": true,
       "hub": true
@@ -31,6 +21,16 @@
       "url": "https://former.noradz.io/",
       "summary": "Fill and sign a flat PDF, or make one fillable.",
       "blurb": "Fill and sign a flat PDF in a tab, or place the fields once and export the form still blank but now fillable, so everyone you send it to can type into it. For the scanned forms that arrive by email with no form fields in them.",
+      "status": "live",
+      "nav": true,
+      "hub": true
+    },
+    {
+      "id": "legislation",
+      "name": "legislation",
+      "url": "https://strata.noradz.io/legislation/",
+      "summary": "The ACT unit titles and community title Acts, in full.",
+      "blurb": "The full text of the four instruments that govern unit titles, community title and owners corporation management in the ACT, one plain page per document with the real heading hierarchy intact. Unofficial reproductions kept for reference and for feeding to an assistant — confirm current provisions at the ACT legislation register.",
       "status": "live",
       "nav": true,
       "hub": true
