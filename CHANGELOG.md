@@ -11,3 +11,5 @@
   change (adding a project, renaming a link) means rebuilding just the hub instead of all
   three sites. They still take the palette from `theme.css`. `vite-plugin.mjs` stays in the
   kit, unused for now, for the day a Vite-built site is the one carrying the bar.
+- `noshow` joins the family: `id: noshow`, live, listed last. It takes only the palette, the
+  same as every sibling — it doesn't render `nav.html` either.

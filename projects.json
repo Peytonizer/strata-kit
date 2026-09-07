@@ -34,6 +34,16 @@
       "status": "live",
       "nav": true,
       "hub": true
+    },
+    {
+      "id": "noshow",
+      "name": "noshow",
+      "url": "https://noshow.noradz.io/",
+      "summary": "Fill in the notice of reduced quorum decisions and take away the PDF.",
+      "blurb": "Four inputs — the units plan number, the meeting date, how the meeting was convened, and the seal — produce a completed three-page notice of reduced quorum decisions (ACT form AF2012-112), typeset from scratch. For an owners corporation that reached a valid decision without a full quorum and now has to tell the owners.",
+      "status": "live",
+      "nav": true,
+      "hub": true
     }
   ]
 }
