@@ -36,6 +36,16 @@
       "hub": true
     },
     {
+      "id": "stencil",
+      "name": "stencil",
+      "url": "https://stencil.noradz.io/",
+      "summary": "Fill in a strata notice and take away the PDF.",
+      "blurb": "Pick a notice, answer the fields it asks for — the owner, the lot, the rules contravened, your letterhead and the common seal — and take away a finished PDF, typeset in your browser with a live preview as you go. The first template is the rule infringement notice under section 109 of the Unit Titles (Management) Act 2011.",
+      "status": "live",
+      "nav": true,
+      "hub": true
+    },
+    {
       "id": "legislation",
       "name": "legislation",
       "url": "https://strata.noradz.io/legislation/",

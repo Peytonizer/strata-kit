@@ -13,3 +13,5 @@
   kit, unused for now, for the day a Vite-built site is the one carrying the bar.
 - `noshow` joins the family: `id: noshow`, live, listed last. It takes only the palette, the
   same as every sibling — it doesn't render `nav.html` either.
+- `stencil` joins the family: `id: stencil`, live, listed after `noshow` so `legislation` stays
+  last. It takes only the palette, the same as every sibling.
