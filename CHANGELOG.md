@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- `theme-toggle.js` shows an icon per theme: give the button children marked
+  `data-theme-icon="light"` and `data-theme-icon="dark"` and the one for the current theme is
+  shown, in step with the label. Buttons without them behave as before.
 - Initial extraction. The macaron palette moves out of lodger's and former's stylesheets, where
   it existed as two hand-synchronised copies, into `theme.css` as the one canonical version.
   `former`'s `--ground` had drifted to `#faf6f0`; the kit uses lodger's `#fbf7f4`, which is the
