@@ -3,10 +3,11 @@
 The shared identity for the strata family of sites — the palette and type they have in common
 — plus the family navigation bar and project manifest that back the hub.
 
-Consumed by [strata](https://strata.noradz.io), [lodger](https://lodger.noradz.io) and
-[former](https://former.noradz.io) as a git submodule at `vendor/strata-kit`. Only the hub
-renders the nav bar; lodger and former take the palette and nothing else — see "Who renders
-the nav" below.
+Consumed by [strata](https://strata.noradz.io), [lodger](https://lodger.noradz.io),
+[former](https://former.noradz.io), [noshow](https://noshow.noradz.io) and
+[stencil](https://stencil.noradz.io) as a git submodule at `vendor/strata-kit`. Only the hub
+renders the nav bar; the other sites take the palette (and noshow and stencil the theme toggle)
+and nothing else — see "Who renders the nav" below.
 
 ## What's in it
 
@@ -17,7 +18,7 @@ the nav" below.
 | `nav.html` | Generated from `projects.json` by `build.mjs`, and committed. Rendered only by the hub. |
 | `build.mjs` | Regenerates `nav.html`. No dependencies. |
 | `vite-plugin.mjs` | Inlines `nav.html` into a Vite site's `index.html` at build time. Not currently used by any site — see "Who renders the nav" — kept for the day a Vite-built site is the one carrying the bar. |
-| `theme-toggle.js` | A standalone light/dark toggle for sites without a bundler. lodger and former have their own and don't use this. |
+| `theme-toggle.js` | A standalone light/dark toggle, imported by noshow and stencil. lodger and former have their own and don't use this. |
 
 ## Who renders the nav
 

@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 1.0.0 — 2026-11-16
+
+- README lists all five consuming sites. noshow and stencil were missing, and both import
+  `theme-toggle.js` as well as the palette.
 - `theme-toggle.js` shows an icon per theme: give the button children marked
   `data-theme-icon="light"` and `data-theme-icon="dark"` and the one for the current theme is
   shown, in step with the label. Buttons without them behave as before.
