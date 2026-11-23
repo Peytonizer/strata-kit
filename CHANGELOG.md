@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Reworded the forecast entry to match the workbook (Overview sheet, buildings).
 - Added forecast to the family (live, in the nav and the hub), listed before legislation.
 
 ## 1.0.0 — 2026-11-16

@@ -49,8 +49,8 @@
       "id": "forecast",
       "name": "forecast",
       "url": "https://forecast.noradz.io/",
-      "summary": "Fifteen-year maintenance forecasts, with a window view for tenders.",
-      "blurb": "List each maintenance task and how often it falls due, and the workbook projects it across 15 years. Pick any 3–5 year window to see what a contract tender needs to cover. Fire maintenance first, plumbing to follow. A spreadsheet to download; it forecasts tasks, not costs.",
+      "summary": "Fifteen-year maintenance forecasts for your buildings, with a tender overview.",
+      "blurb": "List each maintenance task and how often it falls due, building by building, and the workbook projects it across 15 years. The Overview sheet shows any 3–5 year window, so you can see what a maintenance contract tender needs to cover. Fire maintenance first, plumbing to follow. A spreadsheet to download; it forecasts tasks, not costs.",
       "status": "live",
       "nav": true,
       "hub": true
