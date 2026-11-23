@@ -5,7 +5,7 @@ The shared identity for the strata family of sites — the palette and type they
 
 Consumed by [strata](https://strata.noradz.io), [lodger](https://lodger.noradz.io),
 [former](https://former.noradz.io), [noshow](https://noshow.noradz.io) and
-[stencil](https://stencil.noradz.io) as a git submodule at `vendor/strata-kit`. Only the hub
+[stencil](https://stencil.noradz.io) and [forecast](https://forecast.noradz.io) as a git submodule at `vendor/strata-kit`. Only the hub
 renders the nav bar; the other sites take the palette (and noshow and stencil the theme toggle)
 and nothing else — see "Who renders the nav" below.
 

@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Added forecast to the family (live, in the nav and the hub), listed before legislation.
+
 ## 1.0.0 — 2026-11-16
 
 - README lists all five consuming sites. noshow and stencil were missing, and both import
